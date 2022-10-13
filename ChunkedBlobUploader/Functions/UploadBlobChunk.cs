@@ -19,7 +19,6 @@ using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Attributes;
 using Microsoft.Azure.WebJobs.Extensions.OpenApi.Core.Enums;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using Microsoft.WindowsAzure.Storage.Table;
 using Newtonsoft.Json;
 
 namespace ChunkedBlobUploader.Functions
